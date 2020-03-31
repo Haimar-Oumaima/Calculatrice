@@ -1,7 +1,6 @@
 public class MyOperatorButton extends Button implements ActionListener{
 
 	MyCalculatrice cl;  
-	  
 	MyOperatorButton(int x,int y, int width,int height,String cap, MaCalculatrice clc)  
 	{  
 	super(cap);  
